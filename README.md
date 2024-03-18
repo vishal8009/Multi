@@ -1,0 +1,2 @@
+# Multi
+Django Blog Application
